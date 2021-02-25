@@ -6,6 +6,6 @@
 - Kevin Ramos
 - Kevin Huang
 
-[Website hosted on github](https://kevnramos.github.io/HistoryofTheInternet/)
+[Website hosted on github](https://k3vinhu4ng.github.io/IS117_HowInternetWorks/)
 
 
