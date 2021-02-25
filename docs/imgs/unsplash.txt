@@ -1,0 +1,15 @@
+nodes.jpg = https://unsplash.com/photos/ZiQkhI7417A
+
+browser.jpg = https://unsplash.com/photos/UK1N66KUkMk
+
+matrix.jpg = https://unsplash.com/photos/iar-afB0QQw
+
+laptop.jpg = https://unsplash.com/photos/iIJrUoeRoCQ
+
+stanford.jpg = https://unsplash.com/photos/f5OO7rL6OD8
+
+ecommerce.jpg = https://unsplash.com/photos/Q59HmzK38eQ
+
+socialmedia.jpg = https://unsplash.com/photos/60GsdOMRFGc
+
+code.jpg = https://unsplash.com/photos/4hbJ-eymZ1o
